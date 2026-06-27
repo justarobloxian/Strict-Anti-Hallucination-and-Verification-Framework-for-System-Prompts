@@ -1,0 +1,2 @@
+# Strict-Anti-Hallucination-and-Verification-Framework-for-System-Prompts
+Epistemic Absolute Framework (v2.0): An advanced LLM system prompt that overrides default conversational behaviors to create a hyper-literal, zero-fluff data terminal. It eliminates narrative smoothing, prevents URL hallucinations, and enforces strict factual integrity. Optimized for complex coding, data extraction, and technical workflows.
