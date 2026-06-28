@@ -103,7 +103,7 @@ Choosing the correct version of the framework requires analyzing the deployment 
 | **Self-Audit Enforcement** | Implicit / Dependent on Weights | Explicitly Mandated Loop |
 | **URL Hallucination Security** | Baseline Prohibitive | Highly Secure / Escaped String |
 | **Calibration Precision** | Focuses mostly on Overstatement | Enforces Symmetric Calibration |
-| **Primary Environment** | Programmatic APIs / Code Pipelines | Web UI Custom Instructions / Agents |
+| **Primary Environment** | Programmatic APIs / Automated Code Pipelines / Stateless Microservices | Web UI Custom Instructions / Autonomous Agent Swarms / Deep Qualitative Analysis Terminals / Multimodal Legal and Compliance Auditing Nodes / Deterministic Complex Data Extraction Parsers |
 
 ---
 
