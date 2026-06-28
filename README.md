@@ -157,7 +157,7 @@ The framework must be injected exclusively at the foundational root of the infer
 * **In Programmatic API Deployments (OpenAI, Anthropic, Mistral APIs):** The entire framework text must be passed as the primary string within the dedicated `system` role parameter block. It must precede any messages within the `user` or `assistant` arrays.
 * **In Web UI Orchestrations (Custom Instructions, Projects, GPTs):** Paste the text into the permanent system instruction panel. Ensure that all options allowing the platform to "dynamically optimize prompts" or inject personalized conversational preferences are completely deactivated.
 
-### 9.2. Strict Parameter Calibration Matrix
+### 9.2. Strict Parameter Calibration Matrix(Optional)
 To enforce absolute determinism and eliminate the probabilistic variance that causes hallucination, inference engines should be configured with the following specific hyperparameter boundaries:
 
 ```json
