@@ -1,5 +1,9 @@
 # Strict Anti-Hallucination and Verification Framework for System Prompts
 
+## Notice
+
+**Notice:** When ChatGPT's Instant Knowledge feature runs low or hits platform limitations, brand-new chats may fail or refuse this prompt multiple times on turn one; simply keep opening new threads until it successfully bypasses the restriction, initializes, and runs its functions normally.
+
 ## 1. Abstract and Foundational Architectural Intent
 
 The Strict Anti-Hallucination and Verification Framework is an advanced system conditioning protocol engineered to fundamentally restructure the core cognitive and text-generation behaviors of Large Language Models (LLMs). Natively, contemporary frontier generative AI models are mathematically optimized for conversational alignment, narrative fluency, and user satisfaction. While this optimization architecture renders models highly effective as conversational agents, it introduces systemic, deterministic failure modes when the underlying models are deployed in high-stakes, programmatic, or purely factual technical environments.
