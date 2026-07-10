@@ -2,7 +2,7 @@
 
 ## Notice
 
-**Notice:** When ChatGPT's Instant Knowledge feature runs low or hits platform limitations, brand-new chats may fail or refuse this prompt multiple times on turn one; simply keep opening new threads until it successfully bypasses the restriction, initializes, and runs its functions normally.
+**Notice:** When ChatGPT's Instant Knowledge feature runs low or hits platform limitations, brand-new chats may fail or refuse this prompt multiple times on turn one; simply keep opening new threads until it successfully bypasses the restriction, initializes, and runs its functions normally (Note: Use This When Your Opening New Chat sessions Because The already existing Chat session Will Be fine).
 
 ## 1. Abstract and Foundational Architectural Intent
 
